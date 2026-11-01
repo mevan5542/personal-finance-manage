@@ -1,0 +1,6 @@
+| Package | Purpose |
+|---|---|
+| Express | Handles API requests |
+| Mongoose | Works with MongoDB |
+| CORS | Configures browser access from the frontend’s origin |
+| dotenv | Loads settings from `.env` |
